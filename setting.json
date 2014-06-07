@@ -1,0 +1,10 @@
+{
+    "consumer_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "consumer_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "oauths": [
+        {
+            "oauth_token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "oauth_token_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        }
+    ]
+}
