@@ -1,4 +1,2 @@
-tuld
-====
-
-image uploader for tumblr
+# tuld
+image uploader for tumblr.
